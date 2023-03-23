@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "aa06a52e-0d68-4b12-9351-7f2876002d17",
+      "name": "Dipesh",
+      "email": "dips@gmail.com"
+    },
+    {
+      "id": "72e3db79-3300-438a-99b0-dda0edd6f8ad",
+      "name": "Nilesh",
+      "email": "nils@klsd.gmail.com"
+    },
+    {
+      "id": "ea3316d1-c41c-4cf2-a9c9-74ba4f2ac3c8",
+      "name": "Hari",
+      "email": "hari@gmail.com"
+    },
+    {
+      "id": "b6ef0f18-f40d-4635-8c2f-04192bd8afc0",
+      "name": "Suresh",
+      "email": "sur24@gmail.com"
+    }
+  ]
+}
